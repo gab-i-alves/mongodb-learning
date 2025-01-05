@@ -12,4 +12,5 @@ db.help()
 db.products.insertOne({name: "Book", price: 12.99})
 db.products.find()
 db.products.find().pretty()
+db.products.deleteOne({name: "Book"})
 ```
