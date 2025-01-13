@@ -32,3 +32,7 @@ If you just use a number, it will get added as a **normal double** into the data
 
 - <https://www.mongodb.com/docs/manual/core/schema-validation/>
 - <https://www.mongodb.com/docs/manual/reference/limits/>
+
+## Other
+
+- There isn't operators for insert and delete, only read and update
